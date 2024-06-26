@@ -3,7 +3,7 @@ h2 {
   font-size: 1.5rem;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:'Imitate', 'Noto Sans JP', sans-serif;
 }
 table {
   border-collapse: collapse;
@@ -27,7 +27,7 @@ img {
 header {
   display: flex;    /* 子要素を縦並びから横並びに変更 */
   justify-content: space-between;   /* 間隔を最大まで広げる */
-  border-bottom: 1px solid #ddd; /* 太さ1px, スタイルsolid, 色#dddの枠線を下だけつける */
+  border-bottom: 1px solid #faf2fa; /* 太さ1px, スタイルsolid, 色#dddの枠線を下だけつける */
 }
 
 header div {
@@ -37,10 +37,13 @@ header div {
 ol {
   color: rgb(0, 0, 0);
   font-size: 1.3rem;
-  font-family:sans-serif;
 }
 ul {
   color: rgb(0, 0, 0);
   font-size: 1.3rem;
-  font-family:sans-serif;
+}
+G2 {
+  color: rgb(161, 42, 165);
+  font-size: 2.5rem;
+  border: 2px solid purple;
 }
