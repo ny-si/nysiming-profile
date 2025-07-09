@@ -3,7 +3,9 @@ h2 {
   font-size: 1.5rem;
 }
 body {
-  font-family:'Imitate', 'Noto Sans JP', sans-serif;
+  font-family:'源全ゴシック改', 'Noto Sans JP', sans-serif;
+  color: white;
+  background: #383838;
 }
 table {
   border-collapse: collapse;
@@ -19,7 +21,7 @@ th, td {
 }
 
 th {
-  background-color: #dbade1;    /* 要素の背景色を#e1adadにする */
+  background-color: #805086;    /* 要素の背景色を#e1adadにする */
 }
 img {
   height: 2rem;
@@ -35,15 +37,13 @@ header div {
   align-items: center;    /* 垂直方向を中央揃え */
 }
 ol {
-  color: rgb(0, 0, 0);
   font-size: 1.3rem;
 }
 ul {
-  color: rgb(0, 0, 0);
   font-size: 1.3rem;
 }
 G2 {
-  color: rgb(161, 42, 165);
+  color: rgb(232, 117, 236);
   font-size: 2.5rem;
   border: 2px solid purple;
 }
